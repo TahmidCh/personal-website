@@ -54,7 +54,7 @@ section{
     padding-bottom: 10%;
 }
 .second-part{
-    background-color: rgb(247, 244, 243);
+    
     padding-top: 5%;
 }
 .first-part{
@@ -90,10 +90,25 @@ section{
 .third-section{
     align-items: center;
     padding-top: 2%;
+    background-color: rgb(247, 244, 243);
 }
 #div-des{
     margin-left: 4%;
 }
 .head2{
     font-size: 30px;
+}
+.fourth-section{
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    margin: 110px 150px;
+    margin-left: 32%;
+    padding-top: 5%;
+}
+.fourth-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
 }

@@ -34,7 +34,66 @@ section{
 #head{
     font-weight: 1200px
 }
-h4{
+#top-intro{
     padding-bottom: 50px;
     font-weight: 50px;
+}
+.half-width2{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width2 img{
+    width: 100%;
+}
+#about{
+    text-align: justify;
+    color: dimgray;
+    padding-right: 5%;
+    padding-bottom: 10%;
+}
+.second-part{
+    background-color: rgb(247, 244, 243);
+    padding-top: 5%;
+}
+.first-part{
+    padding-top: 5%;
+}
+.third-head{
+    text-align: center;
+    padding-bottom: 3%;
+    font-size: 30px;
+}
+.third-div{
+
+    float: left;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5%;
+    width: 25%;
+    height: 60%;
+    padding: 1%;
+    
+}
+.third-div img{
+    width: 100%;
+}
+.third-div p {
+    text-align: center;
+}
+.third-div h4{
+    text-align: center;
+}
+.third-section{
+    align-items: center;
+    padding-top: 2%;
+}
+#div-des{
+    margin-left: 4%;
+}
+.head2{
+    font-size: 30px;
 }

@@ -120,8 +120,8 @@ section{
     margin-top: 5%;
     padding-left: 3%;
     padding-top: 2%;
-    margin-bottom: 5;
-    height: 110%;
+    margin-bottom: 5%;
+    height: 60px;
 }
 .last-head{
     text-align: center;
@@ -135,8 +135,8 @@ section{
     size: 50%;
 }
 .last-section{
-    padding-top: 5%;
-    margin-top: 5%;
+    padding-top: 1%;
+    margin-top: 1%;
 }
 .last-anchor img{
     height: 50px;
